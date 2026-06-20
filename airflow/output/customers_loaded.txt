@@ -1,0 +1,3 @@
+Loaded Customer ID: 1 | Name: John | Email: john@test.com
+Loaded Customer ID: 2 | Name: Alice | Email: alice@test.com
+Loaded Customer ID: 3 | Name: Bob | Email: bob@test.comA

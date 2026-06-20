@@ -1,0 +1,12 @@
+To: john@test.com
+Subject: Welcome aboard, John!
+Body: Hi John, thanks for signing up. Your account ID is 1.
+----------------------------------------
+To: alice@test.com
+Subject: Welcome aboard, Alice!
+Body: Hi Alice, thanks for signing up. Your account ID is 2.
+----------------------------------------
+To: bob@test.comA
+Subject: Welcome aboard, Bob!
+Body: Hi Bob, thanks for signing up. Your account ID is 3.
+----------------------------------------
